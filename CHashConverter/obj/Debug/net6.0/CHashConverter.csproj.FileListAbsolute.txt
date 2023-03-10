@@ -1,0 +1,16 @@
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.csproj.AssemblyReference.cache
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.GeneratedMSBuildEditorConfig.editorconfig
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.AssemblyInfoInputs.cache
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.AssemblyInfo.cs
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.csproj.CoreCompileInputs.cache
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\Test Data\Model.cs
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\CHashConverter.exe
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\CHashConverter.deps.json
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\CHashConverter.runtimeconfig.json
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\CHashConverter.dll
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\bin\Debug\net6.0\CHashConverter.pdb
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.dll
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\refint\CHashConverter.dll
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.pdb
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\CHashConverter.genruntimeconfig.cache
+H:\Developer\Exams\Aeronology\Console\Converter\CHashConverter\obj\Debug\net6.0\ref\CHashConverter.dll
